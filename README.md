@@ -1,7 +1,6 @@
 # Análisis de la Calidad de Vino Blanco con IA
 
-![BannerIA](https://github.com/user-attachments/assets/483c38dc-74cc-4f66-9446-425d4ddd4bf5)
-
+![BannerIA](https://github.com/user-attachments/assets/fe1eb49f-834b-4466-a65d-0aee8f999542)
 
 ## Autores
 Daniel Badillo - 2220071, Juan David Pallares - 2220079
