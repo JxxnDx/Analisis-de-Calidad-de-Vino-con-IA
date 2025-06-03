@@ -7,6 +7,9 @@ Daniel Badillo - 2220071, Juan David Pallares - 2220079
 
 Escuela Ingeniería de Sistemas - Universidad Industrial de Santander.
 
+## Video
+[![Ver en YouTube](https://img.youtube.com/vi/LSTgxtzRElw/hqdefault.jpg)](https://youtu.be/LSTgxtzRElw?feature=shared)
+
 ## Dataset
 El dataset White Wine Quality contiene información sobre características de distintas variantes de vino blanco, que está evaluado con una variable "Quality" discreta de 0 a 10. 
 
