@@ -25,10 +25,6 @@ Contiene 4898 registros y 12 columnas distintas, todas numéricas.
 - KMeans (k=2, k=3, PCA, TSNE)
 - DBSCan (PCA, TSNE)
 
-## Enlaces
-- [Código](https://colab.research.google.com/drive/1KaCnuniFLZtTSVGKjOyMbGoZFbn6lSYZ?usp=sharing)
-- [Video](https://youtu.be/LSTgxtzRElw?feature=shared)
-
 ## Motivación
 La inteligencia artificial se ha convertido en una herramienta clave para resolver problemas en distintas áreas, permitiendo analizar grandes cantidades de datos y encontrar patrones que de otra manera serían difíciles de detectar. Dentro de este campo, el Machine Learning (ML) y el Deep Learning (DL) ofrecen enfoques que, aunque diferentes, buscan alcanzar el mismo objetivo: realizar predicciones que se ajusten a partir de datos.
 
@@ -50,3 +46,6 @@ Desarrollar varios modelos de IA, tanto supervisados como no supervisados que pr
 
 - Utilizar los algoritmos de aprendizaje no supervisado de K-Means y DBScan para agrupar los distintos tipos de vino basandose en sus características fisicoquímicas y observar si estos clusteres corresponden a si efectivamente es un buen o mal vino.
 
+## Enlaces
+- [Código](https://colab.research.google.com/drive/1KaCnuniFLZtTSVGKjOyMbGoZFbn6lSYZ?usp=sharing)
+- [Video](https://youtu.be/LSTgxtzRElw?feature=shared)
